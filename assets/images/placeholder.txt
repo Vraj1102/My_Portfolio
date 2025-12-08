@@ -1,0 +1,8 @@
+Image Placeholders Required:
+
+1. profile.jpg - Your profile photo (recommended: 400x400px, square format)
+2. project1.jpg - E-commerce website screenshot (recommended: 600x400px)
+3. project2.jpg - Weather app screenshot (recommended: 600x400px)  
+4. project3.jpg - Task manager screenshot (recommended: 600x400px)
+
+Please add your actual images to this folder and replace these placeholder names with your image files.
