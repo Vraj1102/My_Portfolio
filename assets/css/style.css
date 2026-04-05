@@ -234,6 +234,7 @@ body::before {
     font-size: 0.9rem;
 }
 
+
 .experience-item {
     border-left: 3px solid var(--primary-color);
     padding-left: 2rem;
